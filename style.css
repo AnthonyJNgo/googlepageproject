@@ -1,0 +1,47 @@
+.top-navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    display: block;
+    padding: 8px;
+}
+
+.search-navbar {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    background-color: gainsboro;
+    color: gray;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchbar {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.account-signin {
+    background-color: #4285f4;
+    color: white;
+    padding: 10px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gainsboro;
+    padding: 2px;
+}
