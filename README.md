@@ -18,3 +18,5 @@ This is extremely basic, there's no javascript or frameworks, it's just html and
 divs and styling more with css. As of now I feel that I've learned a majority of what I could from this project so I'm moving on to basic
 JS, however, I do plan to come back and make this much nicer. I'm not sure "carbon copy google homepage" is exactly an eye catcher on a resume,
 but it's good practice.
+
+The project can be viewed live @: https://anthonyjngo.github.io/googlepageproject/
